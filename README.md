@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, game development, and AI development
 - 🌱 I’m currently learning basic coding languages such as C++
 - 💞️ I’m looking to collaborate on creating games, game modifications, and many other projects
-- 📫 How to reach me through my personal email at lchen030406@gmail.com
+- 📫 Reach out to me through my email at lchen030406@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can make it 3 leaf clover with my tongue
 
