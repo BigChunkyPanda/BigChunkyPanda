@@ -1,7 +1,7 @@
 - Hi, I’m Leo Chen
 - I’m currently interested in gaming, game development, and AI development
 - I am pursuing a Bachelor of Science degree in Computer Science
-- I’m looking to collaborate on many different kind of projects
+- I’m looking to collaborate on many different kinds of projects
 - Reach out to me through my email at lchen030406@gmail.com
 - Pronouns: He/His
 <!---
